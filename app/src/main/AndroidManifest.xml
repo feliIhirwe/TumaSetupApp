@@ -16,6 +16,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity android:name="activities_all.addDish" />
+        <activity android:name="activities_all.addResto" />
+        <activity android:name="activities_all.addType" />
+        <activity android:name="activities_all.showCreateOptions" />
+        <activity android:name="activities_all.ShowCreateOrEdit" />
     </application>
 
 </manifest>

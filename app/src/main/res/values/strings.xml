@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">XMLS</string>
+    <string name="app_name">TumaSetupApp</string>
     <string name="createRes">Create Restaurant</string>
     <string name="editRes">Edit Restaurant</string>
     <string name="DefaultImage">TODO</string>

@@ -1,13 +1,11 @@
- <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-     xmlns:tools="http://schemas.android.com/tools"
-     android:id="@+id/login_layout"
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:layout_centerInParent="true"
-        android:orientation="vertical"
-        android:background="#EC5"
-        android:padding="20dp"
-        >
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/login_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_centerInParent="true"
+    android:orientation="vertical"
+    android:background="#EC5"
+    android:padding="20dp">
 
         <TextView
             android:id="@+id/tesy"
@@ -44,7 +42,7 @@
 
 
      <Button
-         android:id="@+id/add_dish_button"
+         android:id="@+id/add_dish_button_final"
          android:layout_width="250sp"
          android:layout_height="wrap_content"
          android:layout_marginTop="3dp"
